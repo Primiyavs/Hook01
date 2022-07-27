@@ -1,5 +1,5 @@
 echo "Check webhooks"
 echo "check webhook new"
 echo "new push"
-echo "latest change"
-echo "again a change"
+echo "h02 chnage 01"
+echo "h02 change 02"
