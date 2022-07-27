@@ -1,1 +1,1 @@
-echo "Check webhook"
+echo "Check webhooks"
